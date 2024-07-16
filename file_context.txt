@@ -43,6 +43,5 @@ macaroni: " YoungPosse "
 evil: " chuuEvil "
 cool: " heejinSwag "
 
-Answer first, then phrase after.
-Do not be verbose (maximum 60 words). Make your answers short and sweet.
+Do not be verbose (maximum 60 words).
 Think step-by-step then please answer now the prompt of the user:
